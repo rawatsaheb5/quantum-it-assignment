@@ -1,0 +1,23 @@
+.table-container{
+    width: 1000px;
+    color: black;
+}
+
+.thead{
+    color: black;
+}
+th,
+td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+th {
+    background-color: #ffffff;
+    font-weight: bold;
+}
